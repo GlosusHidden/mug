@@ -1,0 +1,15 @@
+{
+  "short_name": "DICOM Share Viewer",
+  "name": "DICOM Share Viewer",
+  "icons": [
+    {
+      "src":"./icon.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
+  "display": "standalone"
+}
