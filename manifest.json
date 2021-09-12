@@ -1,10 +1,10 @@
 {
-  "short_name": "DICOM Share Viewer",
-  "name": "DICOM Share Viewer",
+  "short_name": "Mobile Up Gallery",
+  "name": "Mobile Up Gallery",
   "icons": [
     {
       "src":"./icon.png",
-      "sizes": "50x50",
+      "sizes": "256x256",
       "type": "image/png"
     }
   ],
